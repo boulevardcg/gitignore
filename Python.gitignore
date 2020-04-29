@@ -133,3 +133,14 @@ dmypy.json
 
 # pytype static type analyzer
 .pytype/
+
+# direnv
+.envrc
+
+# VSCode project settings
+.vscode
+
+# Komoodo project settings
+*.komodoproject
+/*.komodoproject
+/.komodotools/
